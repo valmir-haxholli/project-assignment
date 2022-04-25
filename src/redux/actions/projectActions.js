@@ -1,4 +1,5 @@
 import * as types from "./actionType";
+import axios from "axios";
 
 const getProjects = (projects) => ({
     type: types.GET_PROJECTS,

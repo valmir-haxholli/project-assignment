@@ -1,10 +1,16 @@
 {
   "project": [
     {
-      "name": "Test Project 3",
-      "description": "Another project",
-      "owner": "ThirdUser",
-      "id": 1
+      "name": "Project One",
+      "description": "This is the first mock project",
+      "owner": "UserOne",
+      "id": 2
+    },
+    {
+      "name": "Project Two",
+      "description": "This is the second mock project",
+      "owner": "UserTwo",
+      "id": 3
     }
   ],
   "user": [
@@ -12,6 +18,11 @@
       "id": 1,
       "name": "UserOne",
       "email": "userone@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "UserTwo",
+      "email": "usertwo@gmail.com"
     }
   ]
 }
