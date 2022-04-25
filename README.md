@@ -1,13 +1,11 @@
 # Getting Started with Create React App
 
-## Available Scripts
-
-Make first to start the backend server using the command below:
+Make first to install the json server globally.
+### `npm install -g json-server`
+Then start the json backend server using:
 ### `npm run server`
-Launches the JSON server with the available JSON file.
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
