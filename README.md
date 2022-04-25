@@ -5,6 +5,7 @@ Make first to install the json server globally.
 Then start the json backend server using:
 ### `npm run server`
 
+On another terminal start the client side using:
 ### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
