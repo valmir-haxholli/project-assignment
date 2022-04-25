@@ -15,7 +15,8 @@ In another terminal, to start the backend JSON server:
 
 ### `npm run server`
 
----------------------
+Launches the JSON server with the available JSON file.
+
 
 ### `npm test`
 
