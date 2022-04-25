@@ -11,10 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-In another terminal, to start the backend JSON server:
+-----------------------------
+
+Make sure to also start the backend server using the command below:
 
 ### `npm run server`
-
 Launches the JSON server with the available JSON file.
 
 
