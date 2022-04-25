@@ -9,7 +9,7 @@
     {
       "name": "Project Two",
       "description": "This is the second mock project",
-      "owner": "UserTwo",
+      "owner": "Third User",
       "id": 3
     }
   ],
@@ -23,6 +23,11 @@
       "id": 2,
       "name": "UserTwo",
       "email": "usertwo@gmail.com"
+    },
+    {
+      "name": "Third User",
+      "email": "thirduser@gmail.com",
+      "id": 3
     }
   ]
 }
