@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 
+import Home from "./pages/Home";
 import Header from './components/UI/Header';
 import Wrapper from './components/UI/HOC/Wrapper';
 
@@ -11,7 +12,7 @@ const App = () => {
       <>
         <AppComponent />
         <Routes>
-          <Route exact path="/"  />
+          <Route exact path="/" element={<Home />} />
         </Routes>
       </>
   );
