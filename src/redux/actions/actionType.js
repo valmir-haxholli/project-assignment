@@ -3,3 +3,5 @@ export const DELETE_PROJECT = "DELETE_PROJECT";
 export const ADD_PROJECT = "ADD_PROJECT";
 export const UPDATE_PROJECT = "UPDATE_PROJECT";
 export const GET_SINGLE_PROJECT = "GET_SINGLE_PROJECT";
+export const GET_USERS = "GET_USERS";
+export const ADD_USER = "ADD_USER";
